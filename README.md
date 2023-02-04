@@ -1,4 +1,4 @@
-# About me
+# About me 
 
 # - Hi There, I am Mahmoud AL Mughanni . 👋🏽
 
@@ -34,5 +34,9 @@
 
 📩 : mahmoudcr95@gmail.com
 
+### :fire: My Stats :
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=MahMughanni&theme=blueberry&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+
+![](https://komarev.com/ghpvc/?username=MahMughanni)
 
