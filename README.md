@@ -1,42 +1,68 @@
-# About me 
+<h1 align="center">Hi, I’m Mahmoud Al Mughanni! 👋</h1>
 
-# - Hi There, I am Mahmoud AL Mughanni . 👋🏽
+<p align="center">
+Passionate Flutter Developer & Software Engineer from Palestine 🇵🇸<br>
+Building impactful mobile apps, contributing to open-source, and constantly learning.
+</p>
 
-# ![programmer](https://user-images.githubusercontent.com/43685429/215832061-ee85b24f-7b8e-4e5e-8c26-603c91af8225.gif) 
+---
 
-## ✨ Talking about Personal Stuffs
+### 🚀 About Me
 
-👩‍💻 - I am passionate self-taught Software Engineering from Palestine, 
+- 👨‍💻 Self-taught Software Engineer with a focus on **Flutter**, **Clean Architecture**, and **Bloc/Cubit**.
+- 🌍 Based in Gaza, Palestine.
+- 💡 I love solving real-world problems through code and creating beautiful, functional mobile experiences.
+- 💬 Always excited to collaborate on tech projects, hackathons, and meetups.
+- 🎯 Currently looking for **remote opportunities** or **freelance projects**.
 
-🪐 - I am Flutter Devlope . 
+---
 
-👨🏽‍💻 - I love attending Hackathons, meetups & tech events
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adobexd/adobexd-plain.svg" alt="Adobe XD" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MahMughanni&show_icons=true&theme=radical" alt="Mahmoud's GitHub stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahMughanni&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📫 How to Reach Me
+
+- Email: [msmughanni@gmail.com](mailto:msmughanni@gmail.com)
+- Twitter: *https://x.com/mahmughanni?s=21*
 
 
+---
 
+### ✨ Featured Projects
 
+| Project | Description |
+|---------|-------------|
+| **movies_app** | A Flutter app using Clean Architecture and Bloc for state management. |
+| **Clothing-App** | A stylish e-commerce mobile app with beautiful UI/UX. |
+| **teFinalProject** | Final year university project showcasing advanced Flutter skills. |
 
+Feel free to explore these repos and drop a star if you like them!
 
-## 💫  Languages and Tools 
+---
 
-![2](https://user-images.githubusercontent.com/43685429/215842153-80decf14-01e4-4e90-8db3-06ea07fd28e8.svg)
-![1](https://user-images.githubusercontent.com/43685429/215842161-2a359701-9e3f-4c5f-85c1-7cc603d3909c.svg)
-<img src="https://user-images.githubusercontent.com/43685429/215845977-8de23deb-a6d2-4110-8828-ddfac565be24.png" width=70 height=70>
-![68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f646172746c616e672f646172746c616e672d69636f6e2e737667](https://user-images.githubusercontent.com/43685429/216312593-d710a721-3549-4fe3-b6c2-1e16f12e2136.svg)
-![68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667](https://user-images.githubusercontent.com/43685429/216312772-225336f6-ebe4-4d32-8a43-abbaeafdfa92.svg)
-<img src="https://user-images.githubusercontent.com/43685429/216312862-2e8f3d5e-7c87-445e-9dc3-8a5e4aa33247.svg" width=70 height=70>
+### ❤️ Support & Collaboration
 
+If you like my work and want to collaborate, feel free to reach out!  
+I’m open to freelance, part-time, or full-time remote work.
 
-
-## How to reach me: 
-
-📩 : msmughanni@gmail.com
-
-
-
-### :fire: My Stats :
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=MahMughanni&theme=blueberry&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
-
-![](https://komarev.com/ghpvc/?username=MahMughanni)
-
+---
